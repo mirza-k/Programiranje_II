@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\mirzakozica\source\repos\project73\project73\source.cpp(207): warning C4715: 'Aktivnost::UkloniUposlenika': not all control paths return a value
+c:\users\mirzakozica\source\repos\project73\project73\source.cpp(270): warning C4715: 'Projekat::ZavrsiAktivnost': not all control paths return a value
+c:\users\mirzakozica\source\repos\project73\project73\source.cpp(282): warning C4715: 'Projekat::DodajUposlenikaNaAktivnost': not all control paths return a value
+c:\users\mirzakozica\source\repos\project73\project73\source.cpp(296): warning C4715: 'Projekat::SviUposlenici': not all control paths return a value
+  Project73.vcxproj -> C:\Users\MirzaKozica\source\repos\Project73\Debug\Project73.exe

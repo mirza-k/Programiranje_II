@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\mirzakozica\source\repos\project84\project84\source.cpp(242): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\mirzakozica\source\repos\project84\project84\source.cpp(251): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\mirzakozica\source\repos\project84\project84\source.cpp(288): warning C4101: 'niz': unreferenced local variable
+c:\users\mirzakozica\source\repos\project84\project84\source.cpp(309): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\mirzakozica\source\repos\project84\project84\source.cpp(345): warning C4018: '<': signed/unsigned mismatch
+  Project84.vcxproj -> C:\Users\MirzaKozica\source\repos\Project84\Debug\Project84.exe

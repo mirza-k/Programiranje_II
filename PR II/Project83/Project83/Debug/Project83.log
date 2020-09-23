@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\mirzakozica\source\repos\project83\project83\source.cpp(234): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mirzakozica\source\repos\project83\project83\source.cpp(474): warning C4715: 'Predmet::GetPodaciStudenta': not all control paths return a value
+c:\users\mirzakozica\source\repos\project83\project83\source.cpp(238): warning C4715: 'Nastava::Procenat': not all control paths return a value
+  Project83.vcxproj -> C:\Users\MirzaKozica\source\repos\Project83\Debug\Project83.exe

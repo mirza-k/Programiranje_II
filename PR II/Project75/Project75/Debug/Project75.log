@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\mirzakozica\source\repos\project75\project75\source.cpp(353): warning C4101: 'temp': unreferenced local variable
+c:\users\mirzakozica\source\repos\project75\project75\source.cpp(118): warning C4715: 'Aktivnost::operator+=': not all control paths return a value
+c:\users\mirzakozica\source\repos\project75\project75\source.cpp(243): warning C4715: 'Aktivnost::operator-=': not all control paths return a value
+c:\users\mirzakozica\source\repos\project75\project75\source.cpp(334): warning C4172: returning address of local variable or temporary: niz
+  Project75.vcxproj -> C:\Users\MirzaKozica\source\repos\Project75\Debug\Project75.exe
